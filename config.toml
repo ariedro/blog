@@ -6,7 +6,7 @@ build_search_index = false
 taxonomies = [
     {name = "tags"}
 ]
-generate_feed = true
+generate_feeds = true
 
 [markdown]
 highlight_code = true
