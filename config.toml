@@ -21,4 +21,4 @@ menu_items = [
     {name = "contact", url = "$BASE_URL/contact"},
     {name = "rss", url = "$BASE_URL/atom.xml"},
 ]
-copyright_html = "ariedro 2022-2023 - made with Zola, using Terminimal theme"
+copyright_html = "ariedro 2022-$CURRENT_YEAR - made with Zola, using Terminimal theme"
