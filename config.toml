@@ -17,7 +17,7 @@ menu_items = [
     {name = "blog", url = "$BASE_URL"},
     {name = "archive", url = "$BASE_URL/archive"},
     {name = "about", url = "$BASE_URL/about"},
-    # {name = "hire", url = "$BASE_URL/hire"}, // Future
+    {name = "hire", url = "https://hire.ariedro.dev/"},
     {name = "contact", url = "$BASE_URL/contact"},
     {name = "rss", url = "$BASE_URL/atom.xml"},
 ]
