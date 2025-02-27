@@ -213,12 +213,9 @@ go through all the spyware in the app.
 
 ## Further things
 
-I am not worried if SOFSE finds this and wants to make a legal fuss about it,
-after all, they are the ones who are legally wrong in this issue, being a
-state-subsidized company, they should keep its information public.
-
-And in the end, this was more an exercise in discovery and reverse engineering
-rather than actively trying to affect anyone.
+I wanted to give a big shout-out to [Tincho Mika](https://tinchomika.com/) for using this to make
+a fully featured web application to view all the information that this API
+provides in a properly formatted way. Be sure to check out [Trencitos](https://trencitos.tinchomika.com/).
 
 I hope you liked this blogpost, and I look forward to keep posting other
 interesting stuff like this more often.
